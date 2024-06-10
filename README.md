@@ -46,5 +46,5 @@ A interface do usuário foi projetada para ser simples e direta, com um campo de
 ### Uso de funções modernas:
 Utilização de funções modernas de JavaScript, como arrow functions e manipulação de arrays, para tornar o código mais conciso e legível.
 
-### Estilo Visual:
+### Estilo visual:
 O arquivo CSS foi criado para proporcionar uma aparência agradável e moderna, com um design centrado e responsivo.
